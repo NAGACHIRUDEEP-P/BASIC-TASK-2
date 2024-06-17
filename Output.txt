@@ -1,7 +1,0 @@
-Enter your password: 
-123456789
-Password is not strong enough
-
-Enter your password: 
-Slashmark123***
-Encrypted password: 1glH0pPkUa85qX+3xJMGBA==
